@@ -1,0 +1,13 @@
+{
+  "name": "test_angular-angular-mocks",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "tsc"
+  },
+  "devDependencies": {
+    "@types/angular": "1.6.28",
+    "@types/angular-mocks": "1.5.10",
+    "typescript": "2.4.2"
+  }
+}
